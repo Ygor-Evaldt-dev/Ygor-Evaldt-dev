@@ -25,7 +25,7 @@
 ## Sobre
 Desenvolvedor Apaixonado por Desafios e Aprendizado Constante
 
-Olá! Sou o Ygor, um entusiasta do desenvolvimento Java com uma paixão ardente por desafios e crescimento contínuo. Com uma mentalidade focada e uma sede insaciável por conhecimento, estou sempre pronto para mergulhar de cabeça em projetos complexos e inovadores.
+Sou um entusiasta do desenvolvimento Java com uma paixão ardente por desafios e crescimento contínuo. Com uma mentalidade focada e uma sede insaciável por conhecimento, estou sempre pronto para mergulhar de cabeça em projetos complexos e inovadores.
 
 Minha jornada no mundo da programação começou a mais ou menos 2 anos e meio, onde dois deles já estava trabalhando profissionalmente na área. Ao longo destes anos, construí uma carreira gratificante, acumulando experiência em projetos diversificados que vão desde aplicações simples e projeto pessoais até soluções empresariais robustas e complexas.
 
