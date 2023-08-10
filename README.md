@@ -29,11 +29,11 @@ Sou um entusiasta do desenvolvimento Java com uma paixão ardente por desafios e
 
 Minha jornada no mundo da programação começou a mais ou menos 2 anos e meio, onde dois deles já estava trabalhando profissionalmente na área. Ao longo destes anos, construí uma carreira gratificante, acumulando experiência em projetos diversificados que vão desde aplicações simples e projeto pessoais até soluções empresariais robustas e complexas.
 
-Acredito que o aprendizado é uma jornada sem fim. Estou constantemente explorando novas tecnologias, participando de hackathons e conferências, e me desafiando a dominar novas habilidades. Minha determinação em dominar as nuances do Java e suas ferramentas associadas é ilimitada e alimenta a minha paixão pela linguagem.
+Acredito que o aprendizado é uma jornada sem fim. Estou constantemente buscando dominar novas habilidades, participando de formações de estudo e projetos Open Soure. Minha determinação em dominar as nuances do Java e suas ferramentas associadas é ilimitada e alimenta a minha paixão pela linguagem.
 
-Encaro os obstáculos como oportunidades para crescimento. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada iteração. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para superar obstáculos com eficiência.
+Encaro os obstáculos como oportunidades para crescimento. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada desafio. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para superar obstáculos com eficiência.
 
- Estou em busca de uma equipe apaixonada que compartilhe meu desejo de empurrar os limites do desenvolvimento Java. Se você procura um desenvolvedor comprometido em elevar os padrões e contribuir para projetos excepcionais, estou ansioso para conectar-me com você.
+Estou em busca de uma equipe apaixonada que compartilhe meu desejo de empurrar os limites do desenvolvimento Java. Se você procura um desenvolvedor comprometido em elevar os padrões e contribuir para projetos excepcionais, estou ansioso para conectar-me com você.
 
 Vamos enfrentar desafios juntos e transformar o mundo da tecnologia! 
 E-mail: evaldtygor@gmail.com
