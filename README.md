@@ -23,9 +23,20 @@
 </div></br>
 
 ## Sobre
-Sou um desenvolvedor Node.js com expertise em JavaScript, TypeScript, Express.js, Prisma ORM, SQL, PostgreSQL, HTML5, CSS3, Bootstrap v3 ou superior e Angular. Com uma vasta experiência no desenvolvimento backend, estou sempre à procura de novos desafios para melhorar minhas habilidades. 
-Possuo experiência em liderar equipes e trabalhar com o framework Scrum para entregas ágeis de projetos. Você pode encontrar meus projetos no meu Github.
-Estou animado para conversar sobre oportunidades e colaborações em projetos desafiadores. Entre em contato comigo para conversarmos mais.
+Desenvolvedor Apaixonado por Desafios e Aprendizado Constante
+
+Sou um entusiasta do desenvolvimento Java com uma paixão ardente por desafios e crescimento contínuo. Com uma mentalidade focada e uma sede insaciável por conhecimento, estou sempre pronto para mergulhar de cabeça em projetos complexos e inovadores.
+
+Minha jornada no mundo da programação começou a mais ou menos 2 anos e meio, onde dois deles já estava trabalhando profissionalmente na área. Ao longo destes anos, construí uma carreira gratificante, acumulando experiência em projetos diversificados que vão desde aplicações simples e projeto pessoais até soluções empresariais robustas e complexas.
+
+Acredito que o aprendizado é uma jornada sem fim. Estou constantemente explorando novas tecnologias, participando de hackathons e conferências, e me desafiando a dominar novas habilidades. Minha determinação em dominar as nuances do Java e suas ferramentas associadas é ilimitada e alimenta a minha paixão pela linguagem.
+
+Encaro os obstáculos como oportunidades para crescimento. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada iteração. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para superar obstáculos com eficiência.
+
+ Estou em busca de uma equipe apaixonada que compartilhe meu desejo de empurrar os limites do desenvolvimento Java. Se você procura um desenvolvedor comprometido em elevar os padrões e contribuir para projetos excepcionais, estou ansioso para conectar-me com você.
+
+Vamos enfrentar desafios juntos e transformar o mundo da tecnologia! 
+E-mail: evaldtygor@gmail.com
 
 ## Contato
 
