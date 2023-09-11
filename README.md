@@ -28,15 +28,15 @@
 ## Sobre
 Desenvolvedor Apaixonado por Desafios e Aprendizado Constante
 
-Sou um entusiasta do desenvolvimento Java com uma paixão ardente por desafios e crescimento contínuo. Com uma mentalidade focada e uma sede insaciável por conhecimento, estou sempre pronto para mergulhar de cabeça em projetos complexos e inovadores.
+Sou um entusiasta do desenvolvimento com paixão por desafios e crescimento contínuo. Mantenho minha mente focada na construção de conhecimento, sempre disponível para abraçar projetos complexos e inovadores.
 
-Minha jornada no mundo da programação começou a mais ou menos 2 anos e meio, onde dois deles já estava trabalhando profissionalmente na área. Ao longo destes anos, construí uma carreira gratificante, acumulando experiência em projetos diversificados que vão desde aplicações simples e projeto pessoais até soluções empresariais robustas e complexas.
+Minha jornada no mundo da programação começou a mais ou menos 2 anos e meio, onde dois deles já estava trabalhando profissionalmente na área. Ao longo destes anos, segui acumulando conhecimento e experiência em projetos diversificados que vão desde aplicações simples e projeto pessoais até soluções empresariais robustas e complexas.
 
-Acredito que o aprendizado é uma jornada sem fim. Estou constantemente buscando dominar novas habilidades, participando de formações de estudo e projetos Open Soure. Minha determinação em dominar as nuances do Java e suas ferramentas associadas é ilimitada e alimenta a minha paixão pela linguagem.
+Acredito que o aprendizado é uma jornada sem fim. Estou constantemente buscando dominar novas habilidades, participando de formações de estudo e projetos Open Soure.
 
-Encaro os obstáculos como oportunidades para crescimento. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada desafio. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para superar obstáculos com eficiência.
+Os desafios de se trabalhar como desenvolvedor são oportunidades para crescimento para mim. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada desafio. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para qualquer profissional.
 
-Estou em busca de uma equipe apaixonada que compartilhe meu desejo de empurrar os limites do desenvolvimento Java. Se você procura um desenvolvedor comprometido em elevar os padrões e contribuir para projetos excepcionais, estou ansioso para conectar-me com você.
+Estou em busca de uma equipe apaixonada que compartilhe meu desejo de empurrar os limites do desenvolvimento. Se você procura um desenvolvedor comprometido em elevar os padrões e contribuir para projetos excepcionais, estou ansioso para conectar-me com você.
 
 Vamos enfrentar desafios juntos e transformar o mundo da tecnologia! 
 E-mail: evaldtygor@gmail.com
