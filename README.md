@@ -34,7 +34,7 @@ Minha jornada no mundo da programação começou a mais ou menos 2 anos e meio, 
 
 Acredito que o aprendizado é uma jornada sem fim. Estou constantemente buscando dominar novas habilidades, participando de formações de estudo e projetos Open Soure.
 
-Os desafios de se trabalhar como desenvolvedor são oportunidades para crescimento para mim. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada desafio. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para qualquer profissional.
+Os desafios de se trabalhar como desenvolvedor são oportunidades de crescimento para mim. Cada problema técnico é um convite para encontrar soluções inovadoras e aprender com cada desafio. Considero a ética de trabalho e as habilidades de resolução de problemas indispensáveis para qualquer profissional.
 
 Estou em busca de uma equipe apaixonada que compartilhe meu desejo de empurrar os limites do desenvolvimento. Se você procura um desenvolvedor comprometido em elevar os padrões e contribuir para projetos excepcionais, estou ansioso para conectar-me com você.
 
