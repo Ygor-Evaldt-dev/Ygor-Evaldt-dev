@@ -28,13 +28,13 @@
 ## Sobre
 Apaixonado por Desafios e Aprendizado Constante
 
-Desenvolvedor Full-Stack experiente com um profundo conhecimento em
-JavaScript/TypeScript e Node.js, habilidades sólidas em desenvolvimento de Restful APIs
-além de uma paixão pelo desenvolvimento back-end e a criação de soluções de software de
+Desenvolvedor Full-Stack com experiência profissional em
+JavaScript/TypeScript e Node.js, habilidades sólidas em desenvolvimento de API's RESTFul
+e grande foco no desenvolvimento com qualidade de soluções de software escaláveis e de
 alta qualidade. 
 
-Possuo experiência com liderança técnica e liderança de equipes, aplicando
-práticas de desenvolvimento limpo, clean architecture e design orientado por domínio.
+Também possuo experiência com liderança técnica e liderança de equipes, aplicando e promovendo o desenvolvimento de aplicações web
+utilizando práticas de código limpo, arquitetura limpa e design orientado por domínio.
 
 E-mail: evaldtygor@gmail.com
 
