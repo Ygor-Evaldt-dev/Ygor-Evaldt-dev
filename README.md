@@ -26,15 +26,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## Sobre
-Apaixonado por Desafios e Aprendizado Constante
+Focado no processo que me faz feliz e realizado.
 
-Desenvolvedor Full-Stack com experiência profissional em
-JavaScript/TypeScript e Node.js, habilidades sólidas em desenvolvimento de API's RESTFul
-e grande foco no desenvolvimento com qualidade de soluções de software escaláveis e de
-alta qualidade. 
-
-Também possuo experiência com liderança técnica e liderança de equipes, aplicando e promovendo o desenvolvimento de aplicações web
-utilizando práticas de código limpo, arquitetura limpa e design orientado por domínio.
+Desenvolvedor back-end apaixonado por resolver problemas através da tecnologia desde 2022. Atuando como líder técnico e principal desenvolvedor de várias aplicações web de gestão de grande escala.
+Possuo experiência em JavaScript (ES6+), TypeScript, Node.js, Express.js, Prisma, Axios.js, SQL, PostgreSQL, Implementação de arquiteturas limpas e escaláveis, escrita de código limpo com alta legibilidade e liderança.
 
 E-mail: evaldtygor@gmail.com
 
