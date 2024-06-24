@@ -31,8 +31,8 @@ Focado no processo que me faz feliz e realizado.
 
 Resolvendo problemas através da tecnologia desde 2022. Atuando como líder técnico e principal desenvolvedor de várias aplicações web de gestão de grande escala.
 
-E-mail: evaldtygor@gmail.com
-
 ## Contato
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551983313468)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evaldtygor@gmail.com)
+
