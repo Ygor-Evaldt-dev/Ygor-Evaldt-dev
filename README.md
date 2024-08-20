@@ -33,7 +33,12 @@
 ## Sobre
 ### Focado no processo que me faz feliz e realizado.
 
-Resolvendo problemas através da tecnologia desde 2022. Atuando como líder técnico e principal desenvolvedor de várias aplicações web de gestão em grande escala.
+Desenvolvedor Full Stack com ampla experiência no desenvolvimento de sistemas
+web. Construo soluções utilizando código limpo, arquitetura limpa e design
+orientado por domínio, além de implementar testes automatizados que facilitam a
+sua manutenção. Minha abordagem focada em valor de negócio permite a entrega
+de produtos escaláveis, eficientes em atender às necessidades para as quais foram
+projetados.
 
 ## Contato
 
