@@ -34,14 +34,16 @@
 
 ## Sobre
 
-### Focado no processo que me faz feliz e realizado.
+Sou um **Arquiteto de Software Sênior** focado em construir sistemas escaláveis, resilientes e de alta performance. Minha paixão é unir arquitetura sólida com o poder da Inteligência Artificial para otimizar processos de desenvolvimento.
 
-Desenvolvedor Full Stack com ampla experiência no desenvolvimento de sistemas
-web. Construo soluções utilizando código limpo, arquitetura limpa e design
-orientado por domínio, além de implementar testes automatizados que facilitam a
-sua manutenção. Minha abordagem focada em valor de negócio permite a entrega
-de produtos escaláveis, eficientes em atender às necessidades para as quais foram
-projetados.
+### 🚀 O que estou fazendo agora
+* 🏛️ Atuando como **Arquiteto de Software Sênior** na **Central IT**, definindo padrões e governança de código.
+* 🤖 Desenvolvendo ferramentas de IA como o **Lupa de Requisitos** e setups de **Vibecoding** para automação de engenharia.
+* ☁️ Me preparando para a certificação **AWS Certified Solutions Architect – Associate**.
+* 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Ulbra (2025).
+
+### 💡 Minha abordagem
+Acredito que o código deve ser mais do que apenas funcional; ele deve ser fácil de manter e orientado ao valor de negócio. Sou um entusiasta de metodologias ágeis e de ferramentas que aumentam a produtividade sem comprometer a qualidade técnica.
 
 ## Contato
 
